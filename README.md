@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @devil-GsK
+- 👋 Hi, I’m G Sajan Kumar
 - 👀 I’m interested in ethical hacking
-- 🌱 I’m currently learning PU
+- 🌱 I’m currently learning CSE
 - 💞️ I’m looking to collaborate on hacking
 
 <Hey How r u
